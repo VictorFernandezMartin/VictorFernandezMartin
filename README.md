@@ -5,6 +5,8 @@
 
 - 🌱Currently learning **IntelliJ, Unity, AndroidStudio**
 
+- 🌱Interested in **Cybersecurity and Android Apps**
+
 - 🙋‍♂️ My Portfolio [VictorFdezCV](VictorFdezCV)
 
 <h3 align="left">Connect with me:</h3>
